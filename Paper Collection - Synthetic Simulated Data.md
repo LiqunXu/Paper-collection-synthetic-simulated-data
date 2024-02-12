@@ -2,15 +2,15 @@
 |--|---------------------------------------------------------------------------------------------|------|-----------------------------------------------------------------------------------------|------------------------------------------|------------------------------------------------|
 | 1 | Augmented Reality Meets Computer Vision: Efficient Data Generation for Urban Driving Scenes | 2018 | Method-3 Hybrid assets by both data-driven approaches and computer graphics pipelines | Object detection, Instance segmentation |[Paper link](https://arxiv.org/abs/1708.01566) |
 | 2 | Automatic Dataset Generation From CAD for Vision-Based Grasping | 2021 | Method-2 Virtual assets by computer graphics pipelines | Pose estimation, Visual grasping | [Paper link](https://ieeexplore.ieee.org/document/9659336) |
-| 3 | Digital twin-driven supervised machine learning for the development of artificial intelligence applications in manufacturing |  |  |  | [Paper link](https://www.tandfonline.com/doi/full/10.1080/0951192X.2020.1747642) |
-| 4 |  |  |  |  | [Paper link]() |
-| 5 |  |  |  |  | [Paper link]() |
-| 6 |  |  |  |  | [Paper link]() |
-| 7 |  |  |  |  | [Paper link]() |
-| 8 |  |  |  |  | [Paper link]() |
-| 9 |  |  |  |  | [Paper link]() |
-| 10 |  |  |  |  | [Paper link]() |
-| 11 |  |  |  |  | [Paper link]() |
+| 3 | Digital twin-driven supervised machine learning for the development of artificial intelligence applications in manufacturing | 2020 | Method-2 Virtual assets by computer graphics pipelines | Classification | [Paper link](https://www.tandfonline.com/doi/full/10.1080/0951192X.2020.1747642) |
+| 4 | Unlimited Road-scene Synthetic Annotation (URSA) Dataset | 2018 | Method-2 Virtual assets by computer graphics pipelines | Semantic segmentation | [Paper link](https://arxiv.org/abs/1807.06056) |
+| 5 | Adapting Egocentric Visual Hand Pose Estimation Towards a Robot-Controlled Exoskeleton | 2019 |  |  | [Paper link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content_ECCVW_2018/papers/11134/Baulig_Adapting_Egocentric_Visual_Hand_Pose_Estimation_Towards_a_Robot-Controlled_Exoskeleton_ECCVW_2018_paper.pdf) |
+| 6 | A hybrid image dataset toward bridging the gap between real and simulation environments for robotics | 2019 |  |  | [Paper link](https://link.springer.com/article/10.1007/s00138-018-0966-3) |
+| 7 | Synthetic Examples Improve Generalization for Rare Classes | 2020 |  |  | [Paper link](https://arxiv.org/abs/1904.05916) |
+| 8 | AutonoVi-Sim: Autonomous Vehicle Simulation Platform with Weather, Sensing, and Traffic Control | 2018 |  |  | [Paper link](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Best_AutonoVi-Sim_Autonomous_Vehicle_CVPR_2018_paper.pdf) |
+| 9 | Semantic Segmentation Learning for Autonomous UAVs using Simulators and Real Data | 2019 |  |  | [Paper link](https://ieeexplore.ieee.org/document/8959563) |
+| 10 | Closing the Reality Gap with Unsupervised Sim-to-Real Image Translation | 2022 |  |  | [Paper link](https://arxiv.org/abs/1911.01529) |
+| 11 | AirSim-W: A Simulation Environment for Wildlife Conservation with UAVs | 2018 |  |  | [Paper link](https://dl.acm.org/doi/10.1145/3209811.3209880) |
 | 12 |  |  |  |  | [Paper link]() |
 | 13 |  |  |  |  | [Paper link]() |
 | 14 |  |  |  |  | [Paper link]() |
