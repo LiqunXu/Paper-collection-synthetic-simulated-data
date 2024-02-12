@@ -2,7 +2,7 @@
 |--|---------------------------------------------------------------------------------------------|------|-----------------------------------------------------------------------------------------|------------------------------------------|------------------------------------------------|
 | 1 | Augmented Reality Meets Computer Vision: Efficient Data Generation for Urban Driving Scenes | 2018 | Method-3 Hybrid assets by both data-driven approaches and computer graphics pipelines | Object detection, Instance segmentation |[Paper link](https://arxiv.org/abs/1708.01566) |
 | 2 | Automatic Dataset Generation From CAD for Vision-Based Grasping | 2021 | Method-2 Virtual assets by computer graphics pipelines | Pose estimation, Visual grasping | [Paper link](https://ieeexplore.ieee.org/document/9659336) |
-| 3 |  |  |  |  | [Paper link]() |
+| 3 | Digital twin-driven supervised machine learning for the development of artificial intelligence applications in manufacturing |  |  |  | [Paper link](https://www.tandfonline.com/doi/full/10.1080/0951192X.2020.1747642) |
 | 4 |  |  |  |  | [Paper link]() |
 | 5 |  |  |  |  | [Paper link]() |
 | 6 |  |  |  |  | [Paper link]() |
