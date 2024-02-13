@@ -14,20 +14,20 @@
 | 12 | Automated Generation of Synthetic in-Car Dataset for Human Body Pose Detection | 2022 |  |  | [Paper link](https://repositorium.sdum.uminho.pt/handle/1822/71174) |
 | 13 | BIRDSAI: A Dataset for Detection and Tracking in Aerial Thermal Infrared Videos | 2020 |  |  | [Paper link](https://openaccess.thecvf.com/content_WACV_2020/html/Bondi_BIRDSAI_A_Dataset_for_Detection_and_Tracking_in_Aerial_Thermal_WACV_2020_paper.html) |
 | 14 | A generic visual perception domain randomisation framework for Gazebo | 2018 |  |  | [Paper link](https://ieeexplore.ieee.org/abstract/document/8374189) |
-| 15 |  |  |  |  | [Paper link]() |
-| 16 |  |  |  |  | [Paper link]() |
-| 17 |  |  |  |  | [Paper link]() |
-| 18 |  |  |  |  | [Paper link]() |
-| 19 |  |  |  |  | [Paper link]() |
-| 20 |  |  |  |  | [Paper link]() |
-| 21 |  |  |  |  | [Paper link]() |
-| 22 |  |  |  |  | [Paper link]() |
-| 23 |  |  |  |  | [Paper link]() |
-| 24 |  |  |  |  | [Paper link]() |
-| 25 |  |  |  |  | [Paper link]() |
-| 26 |  |  |  |  | [Paper link]() |
-| 27 |  |  |  |  | [Paper link]() |
-| 28 |  |  |  |  | [Paper link]() |
+| 15 | Urban Traffic Surveillance (UTS): A fully probabilistic 3D tracking approach based on 2D detections | 2021 |  |  | [Paper link](https://ieeexplore.ieee.org/abstract/document/9575140) |
+| 16 | Learning Driving Models From Parallel End-to-End Driving Data Set | 2020 |  |  | [Paper link](https://ieeexplore.ieee.org/abstract/document/8913579) |
+| 17 | Learning Transferable UAV for Forest Visual Perception | 2018 |  |  | [Paper link](https://arxiv.org/abs/1806.03626) |
+| 18 | GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving | 2021 |  |  | [Paper link](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_GeoSim_Realistic_Video_Simulation_via_Geometry-Aware_Composition_for_Self-Driving_CVPR_2021_paper.html) |
+| 19 | Three-Dimensional Simulation for Training Autonomous Vehicles in Smart City Environments | 2019 |  |  | [Paper link](https://ieeexplore.ieee.org/abstract/document/8875271) |
+| 20 | Vision-Based Gesture Recognition in Human-Robot Teams Using Synthetic Data | 2020 |  |  | [Paper link](https://ieeexplore.ieee.org/abstract/document/9340728) |
+| 21 | Generating Human Action Videos by Coupling 3D Game Engines and Probabilistic Graphical Models | 2020 |  |  | [Paper link](https://link.springer.com/article/10.1007/s11263-019-01222-z) |
+| 22 | Paris-CARLA-3D: A Real and Synthetic Outdoor Point Cloud Dataset for Challenging Tasks in 3D Mapping | 2021 |  |  | [Paper link](https://www.mdpi.com/2072-4292/13/22/4713) |
+| 23 | Meta-Sim2: Unsupervised Learning of Scene Structure for Synthetic Data Generation | 2020 |  |  | [Paper link](https://link.springer.com/chapter/10.1007/978-3-030-58520-4_42) |
+| 24 | Automatic generation of realistic training data for learning parallel-jaw grasping from synthetic stereo images | 2021 |  |  | [Paper link](https://ieeexplore.ieee.org/abstract/document/9659350) |
+| 25 | A Deep Learning based system for fast detection of obstacles using rear-view camera under parking scenarios | 2021 |  |  | [Paper link](https://ieeexplore.ieee.org/abstract/document/9640804) |
+| 26 | Performance of LiDAR object detection deep learning architectures based on artificially generated point cloud data from CARLA simulator | 2019 |  |  | [Paper link](https://ieeexplore.ieee.org/abstract/document/8864642) |
+| 27 | Mid-Air: A Multi-Modal Dataset for Extremely Low Altitude Drone Flights | 2019 |  |  | [Paper link](https://openaccess.thecvf.com/content_CVPRW_2019/html/UAVision/Fonder_Mid-Air_A_Multi-Modal_Dataset_for_Extremely_Low_Altitude_Drone_Flights_CVPRW_2019_paper.html) |
+| 28 | Bridging the Reality Gap: Investigation of Deep Convolution Neural Networks Ability to Learn from a Combination of Real and Synthetic Data | 2022 |  |  | [Paper link](https://www.scitepress.org/Papers/2020/98308/98308.pdf) |
 | 29 |  |  |  |  | [Paper link]() |
 | 30 |  |  |  |  | [Paper link]() |
 | 31 |  |  |  |  | [Paper link]() |
