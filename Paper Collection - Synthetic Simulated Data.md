@@ -11,9 +11,9 @@
 | 9 | Semantic Segmentation Learning for Autonomous UAVs using Simulators and Real Data | 2019 |  |  | [Paper link](https://ieeexplore.ieee.org/document/8959563) |
 | 10 | Closing the Reality Gap with Unsupervised Sim-to-Real Image Translation | 2022 |  |  | [Paper link](https://arxiv.org/abs/1911.01529) |
 | 11 | AirSim-W: A Simulation Environment for Wildlife Conservation with UAVs | 2018 |  |  | [Paper link](https://dl.acm.org/doi/10.1145/3209811.3209880) |
-| 12 |  |  |  |  | [Paper link]() |
-| 13 |  |  |  |  | [Paper link]() |
-| 14 |  |  |  |  | [Paper link]() |
+| 12 | Automated Generation of Synthetic in-Car Dataset for Human Body Pose Detection | 2022 |  |  | [Paper link](https://repositorium.sdum.uminho.pt/handle/1822/71174) |
+| 13 | BIRDSAI: A Dataset for Detection and Tracking in Aerial Thermal Infrared Videos | 2020 |  |  | [Paper link](https://openaccess.thecvf.com/content_WACV_2020/html/Bondi_BIRDSAI_A_Dataset_for_Detection_and_Tracking_in_Aerial_Thermal_WACV_2020_paper.html) |
+| 14 | A generic visual perception domain randomisation framework for Gazebo | 2018 |  |  | [Paper link](https://ieeexplore.ieee.org/abstract/document/8374189) |
 | 15 |  |  |  |  | [Paper link]() |
 | 16 |  |  |  |  | [Paper link]() |
 | 17 |  |  |  |  | [Paper link]() |
